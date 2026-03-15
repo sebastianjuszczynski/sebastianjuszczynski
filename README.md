@@ -1,52 +1,92 @@
 # Hi, I'm Sebastian Juszczyński 👋
 
-Frontend developer focused on creating responsive, modern and practical web applications.
+Frontend developer focused on building modern, responsive web applications.
 
-## About me
+I enjoy creating practical projects and improving my skills in JavaScript and React while moving toward a junior frontend developer role.
 
-I am building my path toward a junior frontend developer role by creating real projects and improving my skills in JavaScript and React.
+---
 
-I enjoy working on:
-- responsive websites
-- portfolio projects
-- interactive UI
-- React applications
-- API-based apps
+# Tech Stack
 
-## Tech stack
+## Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
+- HTML5
+- CSS3
+- Sass
+- JavaScript (ES6+)
+- React
+- Redux
+- Axios
 
-## Featured projects
+## Tools & Workflow
+
+- Git
+- GitHub
+- npm
+- Firebase
+- Figma
+- Markdown
+
+---
+
+# Currently learning
+
+- TypeScript
+- Next.js
+
+---
+
+# Next learning goals
+
+- Next.js (advanced usage and full applications)
+- Flutter
+
+---
+
+# Featured Projects
 
 ### React Portfolio
 Portfolio website built with React to showcase my frontend projects and skills.
 
 ### Movie Browser
-React application using API data to browse movies.
+React application that uses an API to search and display movie data.
 
-### Vanilla Portfolio
-Portfolio project created with HTML, CSS and JavaScript.
+### Portfolio Website (HTML / CSS / JavaScript)
+A responsive portfolio created using vanilla frontend technologies.
 
 ### ToDo App
-Task manager built in React and JavaScript.
+Task management application built in both React and vanilla JavaScript.
 
 ### Quiz App
-Interactive quiz project focused on DOM logic and user interaction.
+Interactive quiz project focusing on JavaScript logic and DOM manipulation.
 
-## Portfolio
+---
 
-[Live Portfolio](https://sebastianjuszczynski.github.io/Portfolio/)
+# Portfolio
 
-## Currently focusing on
+You can see my portfolio here:
 
-- improving React skills
-- building stronger portfolio projects
-- writing cleaner and more maintainable code
-- preparing for frontend job opportunities
+➡️  
+**https://sebastianjuszczynski.github.io/Portfolio/**
 
-## Contact
+---
 
-[GitHub Profile](https://github.com/sebastianjuszczynski)
+# About my development approach
+
+I focus on:
+
+- writing clean and readable code
+- building practical projects
+- improving UI and user experience
+- developing strong JavaScript and React foundations
+
+---
+
+# Contact
+
+GitHub  
+https://github.com/sebastianjuszczynski
+
+---
+
+Thanks for visiting my profile.
