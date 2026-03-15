@@ -61,7 +61,7 @@ React application that fetches movie data from an external API and allows users 
 Repository  
 https://github.com/sebastianjuszczynski/movies-browser
 
-Live demo
+Live demo  
 https://sebastianjuszczynski.github.io/movies-browser/
 
 ---
