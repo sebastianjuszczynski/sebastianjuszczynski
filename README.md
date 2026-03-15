@@ -1,42 +1,39 @@
 # Hi, I'm Sebastian Juszczyński 👋
 
-Frontend developer focused on building modern, responsive web applications.
+Frontend developer focused on building modern and responsive web applications.
 
-I enjoy creating practical projects and improving my skills in JavaScript and React while moving toward a junior frontend developer role.
+I enjoy creating practical projects with JavaScript and React while developing toward a junior frontend developer role.
 
 ---
 
 # Tech Stack
 
-## Frontend
+### Frontend
 
-- HTML5
-- CSS3
-- Sass
-- JavaScript (ES6+)
-- React
-- Redux
-- Axios
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,ts,nextjs" />
+</p>
 
-## Tools & Workflow
+### Tools & Workflow
 
-- Git
-- GitHub
-- npm
-- Firebase
-- Figma
-- Markdown
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,npm,firebase,figma,md,vscode" />
+</p>
 
 ---
 
-# Currently learning
+# Currently Learning
 
-- TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=ts,nextjs" />
+</p>
+
+- TypeScript  
 - Next.js
 
 ---
 
-# Next learning goals
+# Next Learning Goals
 
 - Next.js (advanced usage and full applications)
 - Flutter
@@ -71,14 +68,14 @@ You can see my portfolio here:
 
 ---
 
-# About my development approach
+# About My Development Approach
 
 I focus on:
 
 - writing clean and readable code
-- building practical projects
+- building practical frontend projects
 - improving UI and user experience
-- developing strong JavaScript and React foundations
+- strengthening my JavaScript and React foundations
 
 ---
 
