@@ -61,6 +61,9 @@ React application that fetches movie data from an external API and allows users 
 Repository  
 https://github.com/sebastianjuszczynski/movies-browser
 
+Live demo
+https://sebastianjuszczynski.github.io/movies-browser/
+
 ---
 
 ## Weather App
@@ -146,15 +149,6 @@ https://github.com/sebastianjuszczynski/M-P-Removals---website
 
 Live demo  
 https://sebastianjuszczynski.github.io/M-P-Removals---website/
-
----
-
-# Portfolio
-
-You can see my main portfolio here:
-
-➡️  
-**https://sebastianjuszczynski.github.io/Portfolio/**
 
 ---
 
